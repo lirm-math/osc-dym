@@ -42,3 +42,9 @@
 
 # Outputs
 out
+
+## required
+!libsolve_dym_4.a
+!libsolve_dym_8.a
+!libsolve_dym_10.a
+!libsolve_dym_16.a
