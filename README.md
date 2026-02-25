@@ -60,21 +60,21 @@ make more
 
 After compilation, run the corresponding excecutables to see the residual $\epsilon$:
 
-# Single Point Verification
+Single Point Verification
 ```bash 
 ./out/osc_dym_4
 ./out/osc_dym_8
 ./out/osc_dym_10
 ./out/osc_dym_16
 ```
-# Grid Verification ($2000\times 2000$)
+Grid Verification ($2000\times 2000$)
 ```bash 
 ./out/osc_dym_more_4
 ./out/osc_dym_more_8
 ./out/osc_dym_more_10
 ./out/osc_dym_more_16
 ```
-# To Clean Build Artifacts
+To Clean Build Artifacts
 ```bash 
 make clean 
 ```
