@@ -14,7 +14,7 @@ The implementation computes the solution at given grid points, evaluates its num
 
 This work is part of the paper:
 
-> **Enhanced Darboux transformations and Oscillatory $N$-cuspon solutions of the Harry Dym equation**  
+> **Enhanced Darboux transformations and oscillatory $N$-cuspon solutions of the Harry Dym equation**  
 > by LI Ruomeng, GENG Xianguo, XUE Bo, and LI Yihao  
 > [Journal and DOI to be updated upon publication]
 

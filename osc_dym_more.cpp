@@ -244,13 +244,13 @@ int main(int argc, char* args[])
     vector<real_t> x(nx);
     for (size_t i = 0; i < nx; ++i)
     {
-        x[i] = x0 + real_t(i)*dx - 2 * dx;
+        x[i] = x0 + i * dx - 2 * dx;
     }
 
     vector<real_t> t(nt);
     for (size_t i = 0; i < nt; ++i)
     {
-        t[i] = t0 + real_t(i)*dt - 2 * dt;
+        t[i] = t0 + i * dt - 2 * dt;
     }
 
     // -------------------------------------------------------------------------
